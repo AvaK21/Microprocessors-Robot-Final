@@ -16,6 +16,6 @@
 > Front and the back of the Robot
 
 I designed the layout, used a laser cutter for the wood, hand-sewn the cape, assembled the robot, and coded the microprocessor to do a right wall following program. 
-There is a timer interrupt and when it goes off the robot checks three IR sensor values and moves accordingly. 
+There is a timer interrupt and when it goes off the robot checks three IR sensor values and moves accordingly.  The robot got through the maze without intervention and handled the irregular lighting that impacted the IR sensors readings well. 
 
 MicroChip: PIC18F16Q41
